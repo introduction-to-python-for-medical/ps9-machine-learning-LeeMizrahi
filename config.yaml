@@ -1,2 +1,2 @@
-path: "lee_model.joblib
+path: "lee_model.joblib"
 features: ['PPE', 'DFA']
