@@ -1,2 +1,2 @@
-path: "my_model.joblib"
-features: ['PPE', 'DFA']
+selected_features: ['MDVP:Fo(Hz)', 'MDVP:Fhi(Hz)']  # Replace with your actual features
+path: "leemodel.joblib" 
